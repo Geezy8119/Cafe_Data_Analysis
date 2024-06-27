@@ -1,0 +1,429 @@
+﻿ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Chicken Regular Salad,Chicken breast,200,300,60
+,Lettuce,100,300,30
+,Cherry tomatoes,50,200,10
+,Cucumber,50,100,5
+,Red onion,30,80,2.4
+,Bell peppers,50,150,7.5
+,Olives,20,250,5
+,Feta cheese,50,400,20
+,Peri peri dressing,30,500,15
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Chicken Regular Salad,Chicken breast,200,300,60
+,Lettuce,100,300,30
+,Cherry tomatoes,50,200,10
+,Cucumber,50,100,5
+,Red onion,30,80,2.4
+,Black beans,100,120,12
+,Corn kernels,50,80,4
+,Avocado,100,150,15
+,Chipotle dressing,40,400,16
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled BBQ Chicken Regular Salad,Chicken breast,200,300,60
+,Lettuce,100,300,30
+,Cherry tomatoes,50,200,10
+,Cucumber,50,100,5
+,Red onion,30,80,2.4
+,Corn kernels,50,80,4
+,Avocado,100,150,15
+,BBQ sauce,30,250,7.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Crispy Mushroom Fresh Salad,Mixed greens,100,150,15
+,Crispy mushrooms,50,180,9
+,Cherry tomatoes,50,200,10
+,Cucumber,50,100,5
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,Balsamic dressing,30,300,9
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Corn Avocado Regular Salad,Mixed greens,100,150,15
+,Grilled corn kernels,50,80,4
+,Avocado,100,150,15
+,Cherry tomatoes,50,200,10
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,Balsamic dressing,30,300,9
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Chipotle Paneer Regular Salad,Paneer (Indian cottage cheese),100,300,30
+,Mixed greens,100,150,15
+,Chipotle sauce,30,400,12
+,Corn kernels,50,80,4
+,Avocado,100,150,15
+,Cherry tomatoes,50,200,10
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Paneer Regular Salad,Paneer (Indian cottage cheese),100,300,30
+,Mixed greens,100,150,15
+,Peri peri sauce,30,500,15
+,Corn kernels,50,80,4
+,Avocado,100,150,15
+,Cherry tomatoes,50,200,10
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Spicy Tofu Regular Salad,Tofu (firm),100,200,20
+,Mixed greens,100,150,15
+,Spicy seasoning,30,300,9
+,Corn kernels,50,80,4
+,Avocado,100,150,15
+,Cherry tomatoes,50,200,10
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fajita Veggies Regular Salad,Bell peppers,100,150,15
+,Red onion,50,80,4
+,Zucchini,50,120,6
+,Mushrooms,50,180,9
+,Mixed greens,100,150,15
+,Avocado,100,150,15
+,Cherry tomatoes,50,200,10
+,Feta cheese,30,400,12
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fresh Broccoli Regular Salad,Broccoli,100,60,6
+,Mixed greens,100,150,15
+,Cherry tomatoes,50,200,10
+,Cucumber,50,100,5
+,Red onion,30,80,2.4
+,Feta cheese,30,400,12
+,Balsamic dressing,30,300,9
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Chicken Enchiladas (3pc),Chicken breast,300,300,90
+,Tortillas,150,80,12
+,Red bell pepper,50,120,6
+,Yellow bell pepper,50,120,6
+,Onion,50,80,4
+,Cheese,50,300,15
+,Peri peri sauce,50,500,25
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Chicken Enchiladas (3pc),Chicken breast,300,300,90
+,Tortillas,150,80,12
+,Red bell pepper,50,120,6
+,Yellow bell pepper,50,120,6
+,Onion,50,80,4
+,Cheese,50,300,15
+,Chipotle sauce,50,400,20
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Paneer Enchiladas (3pc),Paneer (Indian cottage cheese),300,300,90
+,Tortillas,150,80,12
+,Red bell pepper,50,120,6
+,Yellow bell pepper,50,120,6
+,Onion,50,80,4
+,Cheese,50,300,15
+,Peri peri sauce,50,500,25
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Bbq Paneer Enchiladas (3pc),Paneer (Indian cottage cheese),300,300,90
+,Tortillas,150,80,12
+,Red bell pepper,50,120,6
+,Yellow bell pepper,50,120,6
+,Onion,50,80,4
+,Cheese,50,300,15
+,BBQ sauce,50,250,12.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Bbq Chicken Quesadillas,Chicken breast,200,300,60
+,Tortillas,100,80,8
+,BBQ sauce,30,250,7.5
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Chicken Quesadilla,Chicken breast,200,300,60
+,Tortillas,100,80,8
+,Peri peri sauce,30,500,15
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Chicken Quesadilla,Chicken breast,200,300,60
+,Tortillas,100,80,8
+,Chipotle sauce,30,400,12
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Paneer Quesadilla,Paneer (Indian cottage cheese),200,300,60
+,Tortillas,100,80,8
+,Chipotle sauce,30,400,12
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Bbq Paneer Quesadilla,Paneer (Indian cottage cheese),200,300,60
+,Tortillas,100,80,8
+,BBQ sauce,30,250,7.5
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Corn Cheese Quesadilla,Corn kernels,50,60,3
+,Tortillas,100,80,8
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Bean Cheese Quesadilla,Beans,50,148.2,7.41
+,Tortillas,100,80,8
+,Cheese,50,300,15
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Plain Cheese Quesadilla,Tortillas,100,80,8
+,Cheese,50,300,15
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fajita Veggies Quesadilla,Tortillas,100,80,8
+,Fajita vegetables,50,49.5,2.48
+,Cheese,50,300,15
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Spicy Tofu Quesadilla,Tofu,50,120,6
+,Tortillas,100,80,8
+,Red onion,30,80,2.4
+,Bell peppers,30,150,4.5
+,Cheese,50,300,15
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Peri Peri Potato Burrito,Potatoes,150,30,4.5
+,Tortilla,100,80,8
+,Peri peri sauce,30,500,15
+,Red bell pepper,30,120,3.6
+,Lettuce,20,300,6
+,Black beans,30,148.2,4.44
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Fresh Broccoli Salad,Broccoli,100,60,6
+,Lettuce,50,300,15
+,Cherry tomatoes,30,150,4.5
+,Cucumber,30,120,3.6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Peri Peri Potato Rice Bowl,Potatoes,150,30,4.5
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Mushroom Rice Bowl,Mushrooms,100,120,12
+,Rice,150,40,6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Grilled Corn And Avocado Burrito,Corn kernels,50,60,3
+,Avocado,50,160,8
+,Tortilla,100,80,8
+,Black beans,30,148.2,4.44
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Fresh Broccoli Burrito,Broccoli,100,60,6
+,Tortilla,100,80,8
+,Red bell pepper,30,120,3.6
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Vegan Mushroom Burrito,Mushrooms,100,120,12
+,Tortilla,100,80,8
+,Red bell pepper,30,120,3.6
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Crispy Mushroom Burrito,Mushrooms,100,120,12
+,Tortilla,100,80,8
+,Red bell pepper,30,120,3.6
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Potato Regular Burrito,Potatoes,150,30,4.5
+,Tortilla,100,80,8
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fresh Broccoli Regular Burrito,Broccoli,100,60,6
+,Tortilla,100,80,8
+,Red bell pepper,30,120,3.6
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Paneer Regular Burrito,Paneer (Indian cottage cheese),150,300,45
+,Tortilla,100,80,8
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Chipotle Paneer Regular Burrito,Paneer (Indian cottage cheese),150,300,45
+,Tortilla,100,80,8
+,Chipotle sauce,30,400,12
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Bbq Chicken Regular Burrito,Chicken (grilled),150,200,30
+,Tortilla,100,80,8
+,Bbq sauce,30,300,9
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Chicken Regular Burrito,Chicken (chipotle),150,200,30
+,Tortilla,100,80,8
+,Chipotle sauce,30,400,12
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Chicken Regular Burrito,Chicken (Peri Peri),150,200,30
+,Tortilla,100,80,8
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fajita Veggies Regular Burrito,Fajita veggies,150,100,15
+,Tortilla,100,80,8
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Spicy Tofu Regular Burrito,Tofu (spicy),150,120,18
+,Tortilla,100,80,8
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Corn Avocado Regular Burrito,Corn kernels,50,60,3
+,Avocado,50,160,8
+,Tortilla,100,80,8
+,Black beans,30,148.2,4.44
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Crispy Mushroom Rice Bowl,Mushrooms,100,120,12
+,Rice,150,40,6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Bbq Chicken Regular Rice Bowl,Chicken (grilled),150,200,30
+,Rice,150,40,6
+,Bbq sauce,30,300,9
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Chipotle Paneer Regular Rice Bowl,Paneer (Indian cottage cheese),150,300,45
+,Rice,150,40,6
+,Chipotle sauce,30,400,12
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Chicken Regular Rice Bowl,Chicken (Peri Peri),150,200,30
+,Rice,150,40,6
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Chipotle Chicken Regular Rice Bowl,Chicken (chipotle),150,200,30
+,Rice,150,40,6
+,Chipotle sauce,30,400,12
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Grilled Corn Avocado Regular Rice Bowl,Corn kernels,50,60,3
+,Avocado,50,160,8
+,Rice,150,40,6
+,Black beans,30,148.2,4.44
+,Bell peppers,30,150,4.5
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Paneer Regular Rice Bowl,Paneer (Indian cottage cheese),150,300,45
+,Rice,150,40,6
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Mexican Spicy Tofu Regular Rice Bowl,Tofu (spicy),150,120,18
+,Rice,150,40,6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fajita Veggies Regular Rice Bowl,Fajita veggies,150,100,15
+,Rice,150,40,6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Peri Peri Potato Regular Rice Bowl,Potatoes,150,30,4.5
+,Rice,150,40,6
+,Peri peri sauce,30,500,15
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
+,,,,
+ItemName,INGREDIENTS,WEIGHTAGE,UNIT PRICE,COST
+Fresh Broccoli Regular Rice Bowl,Broccoli,100,60,6
+,Rice,150,40,6
+,Bell peppers,30,150,4.5
+,Red onion,30,80,2.4
+,Lettuce,20,300,6
